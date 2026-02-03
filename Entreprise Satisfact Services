@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ENTREPRISE SATISFACT SERVICES</title>
+
+<style>
+body {
+font-family: Arial, sans-serif;
+margin:0;
+background:#f4f4f4;
+}
+
+header {
+background:#0A3D62;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav {
+background:#145DA0;
+padding:10px;
+text-align:center;
+}
+
+nav a {
+color:white;
+margin:10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+section {
+padding:40px;
+background:white;
+margin:20px;
+border-radius:10px;
+}
+
+h2 {
+color:#0A3D62;
+}
+
+.gallery img {
+width:300px;
+margin:10px;
+border-radius:8px;
+}
+
+footer {
+background:#0A3D62;
+color:white;
+text-align:center;
+padding:15px;
+}
+
+.whatsapp {
+display:inline-block;
+margin-top:10px;
+background:#25D366;
+color:white;
+padding:10px 20px;
+border-radius:5px;
+text-decoration:none;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>ENTREPRISE SATISFACT SERVICES</h1>
+<p>Solutions professionnelles en assainissement et services techniques</p>
+</header>
+
+<nav>
+<a href="#presentation">Présentation</a>
+<a href="#services">Services</a>
+<a href="#galerie">Galerie</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="presentation">
+<h2>Présentation</h2>
+
+<p>
+L’ENTREPRISE SATISFACT SERVICES, légalement constituée et immatriculée sous le 
+<strong>Registre de Commerce n° SN.DKR.2021.A.14413</strong> et le 
+<strong>NINEA n° 008535413</strong>, est spécialisée dans la fourniture de solutions techniques, environnementales et logistiques.
+</p>
+
+<p>
+Notre mission est d’offrir des prestations fiables, professionnelles et adaptées aux besoins des collectivités, entreprises et particuliers.
+</p>
+
+</section>
+
+<section id="services">
+<h2>Nos Services</h2>
+
+<ul>
+<li>✅ Vidange des eaux usées</li>
+<li>✅ Curage et entretien des canalisations</li>
+<li>✅ Entretien des ouvrages d’assainissement</li>
+<li>✅ Études d’Impact Environnemental et Social (EIES)</li>
+<li>✅ Gestion de projets</li>
+<li>✅ Travaux publics</li>
+<li>✅ Bâtiments et constructions</li>
+<li>✅ Distribution</li>
+<li>✅ Location et vente d’équipements</li>
+<li>✅ Fournitures de bureau et consommables</li>
+<li>✅ Commerce général et divers</li>
+</ul>
+
+</section>
+
+<section id="galerie">
+<h2>Nos Équipements</h2>
+
+<div class="gallery">
+<img src="photo1.jpeg">
+<img src="photo2.jpeg">
+<img src="photo3.jpeg">
+</div>
+
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+
+<p>📍 Dakar – Sénégal</p>
+
+<p>📞 Téléphone / WhatsApp : 
+<strong>+221 70 350 78 24</strong>  
+👉 Remplace par ton vrai numéro
+</p>
+
+<a class="whatsapp" href="https://wa.me/+221 70 350 78 24">
+Nous écrire sur WhatsApp
+</a>
+
+</section>
+
+<footer>
+<p>© 2026 ENTREPRISE SATISFACT SERVICES – Tous droits réservés</p>
+</footer>
+
+</body>
+</html>
